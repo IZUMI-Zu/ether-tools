@@ -6,7 +6,7 @@
   "description": "A simple tools for ethereum",
   "author": "IZUMI-Zu <hi@binshuo.dev>",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/ether-tools#readme",
+  "homepage": "https://github.com/IZUMI-Zu/ether-tools#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IZUMI-Zu/ether-tools.git"
